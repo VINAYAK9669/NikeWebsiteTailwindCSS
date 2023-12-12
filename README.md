@@ -31,4 +31,4 @@ List the key features of your web application.
 
 ## Check Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZkDZ93unF6Y?si=2wbnRRStmDdmZosW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7140218264776880128" height="1011" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
