@@ -26,4 +26,6 @@ List the key features of your web application.
 - **Visually Appealing:** The user interface is crafted to be visually appealing, providing an engaging and aesthetically pleasing experience for users.
 
 ## Demo
-   [Check the Demo Here]([Check the demo Here](https://vinayak9669.github.io/NikeWebsiteTailwindCSS/)https://vinayak9669.github.io/NikeWebsiteTailwindCSS/)
+
+  [Click Here for a Demo](https://vinayak9669.github.io/NikeWebsiteTailwindCSS/)
+
