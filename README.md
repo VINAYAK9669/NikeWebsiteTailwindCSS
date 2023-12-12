@@ -29,6 +29,8 @@ List the key features of your web application.
 
   [Click Here for a Demo](https://vinayak9669.github.io/NikeWebsiteTailwindCSS/)
 
-## Check Video Demo
+## Check Out LinkedIn Post
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7140218264776880128" height="1011" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[Check LinkedIn Post with Video Here](https://www.linkedin.com/posts/vinay1998_react-tailwindcss-vite-activity-7140218421769678852-mVby?utm_source=share&utm_medium=member_desktop)
+
+
